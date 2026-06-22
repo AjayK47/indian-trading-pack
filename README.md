@@ -27,8 +27,8 @@ When you download this trading pack, Hermes instantly registers these 11 skills 
 - `entry-checksheet` — Rigid pre-trade Gatekeeper.
 - `thesis-builder` — Builds full 7-layer investment reports.
 - `position-monitor` — Tracks active targets & trailing stops.
-- `groww` — Groww execution connector. (Refactored and adapted from community creator [@pushp1997](https://clawhub.ai/pushp1997/groww))
-- `zerodha-kite` — Zerodha Kite execution connector. (Refactored and adapted from community creator [@jatinbansal1998](https://clawhub.ai/jatinbansal1998/zerodha-kite))
+- `groww` — Groww execution connector. (Source: [pushp1997/groww](https://clawhub.ai/pushp1997/groww))
+- `zerodha-kite` — Zerodha Kite execution connector. (Source: [jatinbansal1998/zerodha-kite](https://clawhub.ai/jatinbansal1998/zerodha-kite))
 
 ---
 
@@ -70,4 +70,6 @@ python3 ~/.hermes/skills/trading/indian-trading-pack/trading_setup.py
 ---
 
 ## ⚖️ Legal & Financial Notice (Disclaimer)
-This repository is strictly a technical integration client provided for educational and testing purposes. The authors and contributors are **NOT** SEBI-registered financial advisers. Algorithmic trading carries high capital risks. By downloading or running this software, you take full liability for any financial losses or actions taken. Review full terms inside `DISCLAIMER.md`.
+This repository is strictly a technical integration client provided for educational and testing purposes. The authors and contributors are **NOT** SEBI-registered financial advisers. Algorithmic trading carries high capital risks. By downloading or running this software, you take full liability for any financial losses or actions taken. 
+
+For the complete legal terms, constraints, and liability disclosures, please refer to the [DISCLAIMER.md](./DISCLAIMER.md) document in this repository. All users must read and agree to the terms in the disclaimer before utilizing this pack.
