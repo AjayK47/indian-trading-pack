@@ -27,8 +27,8 @@ When you download this trading pack, Hermes instantly registers these 11 skills 
 - `entry-checksheet` — Rigid pre-trade Gatekeeper.
 - `thesis-builder` — Builds full 7-layer investment reports.
 - `position-monitor` — Tracks active targets & trailing stops.
-- `groww` — Groww execution connector.
-- `zerodha-kite` — Zerodha Kite execution connector.
+- `groww` — Groww execution connector. (Refactored and adapted from community creator [@pushp1997](https://clawhub.ai/pushp1997/groww))
+- `zerodha-kite` — Zerodha Kite execution connector. (Refactored and adapted from community creator [@jatinbansal1998](https://clawhub.ai/jatinbansal1998/zerodha-kite))
 
 ---
 
